@@ -13,7 +13,7 @@ Conducted end-to-end exploratory testing on the Amrutam Ayurveda platform[cite: 
 *   **Key Modules Tested:** Onboarding, Doctor Consultation, E-commerce (Search/Cart), Content Forum, and User Profile[cite: 2].
 *   **Critical Findings:** Identified high data-loss bugs during Web Onboarding, unexplained user blocks in Doctor Consultation, and critical checkout failures[cite: 2]. Documented exact reproduction steps, expected vs. actual results, and attached visual evidence[cite: 2].
 
-[📄 View the Full Amrutam Bug Report](./Amrutam_QA_Test_Report_KShridharan.pdf)
+[📄 View the Full Amrutam Bug Report](https://drive.google.com/file/d/12kY2JETBKN3i6gC79DjUP9zDDcS8fuIl/view?usp=sharing)
 
 ---
 ## 📂 Project 2: AIVOI.AI - Manual Testing & QMS Insights
@@ -26,5 +26,5 @@ Evaluated the AIVOI.AI platform through manual testing, focusing on website navi
 *   **UX Optimization:** Proposed workflow optimizations for module navigation to reduce friction for first-time users browsing the site. 
 *   **QMS Deliverable:** Compiled a structured Quality Management System insight report detailing functional issues, UX observations, and actionable recommendations for input validation and error handling.
 
-[📄 View the Full AIVOI.AI Report](./AIVOI.AI%20Manual%20Testing%20%26%20QMS%20Report.pdf)  
+[📄 View the Full AIVOI.AI Report](https://drive.google.com/file/d/1abxb94IKtd6KyN1OXLv-CLe3eriUfQ0B/view?usp=sharing)  
 [🎥 Watch the Testing Methodology Walkthrough](https://drive.google.com/drive/folders/1zt-el43Tmn4hItqRbQHu4Nk-ulkfChp3?usp=sharing)
